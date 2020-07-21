@@ -1,1 +1,1 @@
-md c:\jenkins1\jenkins2
+md c:\jenkin1\jenkins2
